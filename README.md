@@ -1,2 +1,2 @@
 # webDevelopment
-all web development and vulnerability checks
+All web development and vulnerability checks
